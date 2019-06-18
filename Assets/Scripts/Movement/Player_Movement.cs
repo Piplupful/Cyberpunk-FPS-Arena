@@ -15,8 +15,8 @@ public class Player_Movement : MonoBehaviour
     private CharacterController charCont;
 
     private bool isJumping = false;
-    [SerializeField] private AnimationCurve jumpFallOff;
-    [SerializeField] private float jumpMultiplier;
+    public AnimationCurve jumpFallOff;
+    public float jumpMultiplier;
 
 
     // Start is called before the first frame update
