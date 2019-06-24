@@ -71,6 +71,12 @@
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/Unity Projects/Cyberpunk-FPS-Arena/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.ProGrids">
+      <HintPath>D:/Unity Projects/Cyberpunk-FPS-Arena/Library/ScriptAssemblies/Unity.ProGrids.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.ProGrids.Editor">
+      <HintPath>D:/Unity Projects/Cyberpunk-FPS-Arena/Library/ScriptAssemblies/Unity.ProGrids.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>D:/Unity Projects/Cyberpunk-FPS-Arena/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
@@ -83,23 +89,17 @@
     <Reference Include="Unity.CollabProxy.Editor">
       <HintPath>D:/Unity Projects/Cyberpunk-FPS-Arena/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/Unity Projects/Cyberpunk-FPS-Arena/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>D:/Unity Projects/Cyberpunk-FPS-Arena/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.ProGrids">
-      <HintPath>D:/Unity Projects/Cyberpunk-FPS-Arena/Library/ScriptAssemblies/Unity.ProGrids.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.ProGrids.Editor">
-      <HintPath>D:/Unity Projects/Cyberpunk-FPS-Arena/Library/ScriptAssemblies/Unity.ProGrids.Editor.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.Postprocessing.Editor">
       <HintPath>D:/Unity Projects/Cyberpunk-FPS-Arena/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Postprocessing.Runtime">
       <HintPath>D:/Unity Projects/Cyberpunk-FPS-Arena/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>D:/Unity Projects/Cyberpunk-FPS-Arena/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Analytics.DataPrivacy">
+      <HintPath>D:/Unity Projects/Cyberpunk-FPS-Arena/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>D:/Unity/2019.1.4f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
